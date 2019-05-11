@@ -1,0 +1,5 @@
+.git/
+venv/
+.idea/
+pybase100.egg-info/
+pybase100/*.pyc
