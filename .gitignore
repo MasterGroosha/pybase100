@@ -3,3 +3,4 @@ venv/
 .idea/
 pybase100.egg-info/
 pybase100/*.pyc
+pybase100/__pycache__/
